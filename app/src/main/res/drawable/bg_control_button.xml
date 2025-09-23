@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Фон для обычных кнопок управления: полупрозрачный серый круг -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+
+    <solid android:color="#80333333"/> <!-- Полупрозрачный темно-серый цвет -->
+
+</shape>
